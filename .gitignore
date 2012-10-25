@@ -2,3 +2,7 @@
 #######################
 *.iml
 .idea
+
+# Maven generated files #
+######################### 
+target
